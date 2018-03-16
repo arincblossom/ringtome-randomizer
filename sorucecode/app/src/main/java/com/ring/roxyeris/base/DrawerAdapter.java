@@ -1,5 +1,5 @@
 /**
- * Created by Kang Tae Jun on 2015.
+ * Created by Kang Tae Jun on 2015-05-13.
  *
  * The MIT License
  *
@@ -39,9 +39,6 @@ import com.ring.roxyeris.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by ArinCherryBlossom on 2015-05-13.
- */
 public class DrawerAdapter extends BaseAdapter {
     private ArrayList<IntStringStructure> item;
     private Context context;

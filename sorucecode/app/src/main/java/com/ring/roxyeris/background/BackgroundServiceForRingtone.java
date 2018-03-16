@@ -43,7 +43,7 @@ import android.view.View;
 /**
  * BackgroundServiceForRingtone.java
  *
- * 전화의 착신 여부를 실시간으로 감지하는 서비스 클래스
+ * 전화 여부를 실시간으로 감지하는 서비스 클래스
  */
 
 public class BackgroundServiceForRingtone extends Service {

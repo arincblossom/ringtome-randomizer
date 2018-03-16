@@ -56,6 +56,9 @@ import com.ring.roxyeris.base.RMBase;
 import java.io.File;
 import java.util.ArrayList;
 
+/**
+ * Created by arinpc on 2015-10-02.
+ */
 public class AllMusic extends RMBase implements IExplorer {
     // Local Variable
     private static final File path = Environment.getExternalStorageDirectory(); //new File("/sdcard/");

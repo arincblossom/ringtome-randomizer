@@ -37,12 +37,12 @@ import com.google.ads.AdRequest;
 import com.google.ads.AdSize;
 import com.google.ads.AdView;
 import com.ring.roxyeris.R;
-import com.ring.roxyeris.filelist.RingmusicListBase;
+import com.ring.roxyeris.filelist.NotimusicListBase;
 import com.ring.roxyeris.setting.SettingActivity;
 import com.ring.roxyeris.explorer.AllMusic;
 import com.ring.roxyeris.explorer.FileExplorer;
 import com.ring.roxyeris.MainRunner;
-import com.ring.roxyeris.filelist.NotimusicListBase;
+import com.ring.roxyeris.filelist.RingmusicListBase;
 
 public class RMBase extends NavigationDrawerLayoutBase {
     protected SharedPreferences pref;
